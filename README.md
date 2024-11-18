@@ -1,6 +1,5 @@
-# A.I.
-Welcome in my artificial intelligence website, these will be used for a education purpose.
+# I.A
+Bienvenue sur mon site qui me servira à vous partagez mes projet en inteligence artificiel, 
 
-## Project N°1 
-I did a project for my A.I. classe, I have to entraine a A.I. 
+## Projet N°1 
 
