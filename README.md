@@ -13,3 +13,6 @@ Pour tester cela nous avons programmer dans le language Java un programme nous p
 
 ## Voici [la presentation](https://www.canva.com/design/DAGWMIpJm18/-hmHRK_IQwR5HUAfeOmE7g/edit?utm_content=DAGWMIpJm18&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) du projet
 ## Et [le code](https://colab.research.google.com/drive/18cOh23uXggy1hCB5F7t12E5zwzXTmuJ3?usp=sharing) de la LED RGB 
+
+## Conclusion
+Ce projet toutefois a encouru plusieurs difficultés comme la puissance du site internet qui nous empêche d'avoir la certitude de fonctionnement de programme. De plus, nous avons essayé de modifier la quantité de données, mais sans retour remarquable.
