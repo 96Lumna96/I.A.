@@ -1,8 +1,6 @@
-# I.A
-Bienvenue sur mon site qui me servira à vous partagez mes projet en inteligence artificiel, 
-
-## [Projet N°1](https://github.com/96Lumna96/I.A./tree/I.A)
-## [Projet N°2](https://github.com/96Lumna96/I.A./tree/Projet-N%C2%B02)
+## Voici un descriptif du projet conferentiel.
+Ce projet a été fait lors d'un Workshop suivant une conference sur l'I.A. et ses risques ayant lieu le 03/14/2024 dans les locaux de l'école [EPITECH](https://www.epitech.eu/)
 ------------------------------------------------------------------------
-## Voici mes mise au propre des [Conferences](https://github.com/96Lumna96/I.A./tree/Conference) auquel nous avons participer dans le cadre de la classe d'I.A.
-
+Nous devions pour ce projet effectuer la creation d'une marque à thème choisie, ex: Marque de vetements ou Agence de voyage, puis de confectionner l'integralitée de la marque avec l'utilisation de modéle d'I.A. comme [Chat GPT](https://chatgpt.com/) pour generer l'histoire et les objectifs de la marque, [Suno](https://suno.com/) pour generer une musique qui represente la marque ou [Leonardo](https://leonardo.ai/) pour generer des images.
+Nous avons choisie la marque de voiture donc apres une demande à Chat GPT nous obtenons se [résultat](https://github.com/96Lumna96/I.A./blob/Projet-Conferenciel-N%C2%B01/Resultat%20N%C2%B01.pdf), nous pouvons observer la presence des objectifs de la marque et son nom Lysora.
+Aprés cela nous avons ensuite demandés la creation d'une liste de [voiture](https://github.com/96Lumna96/I.A./blob/Projet-Conferenciel-N%C2%B01/Resultat%20N%C2%B01.pdf) pouvant être vendue par une telle marque
